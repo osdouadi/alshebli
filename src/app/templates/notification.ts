@@ -69,6 +69,7 @@ export const htmlData = `
 
         .info-item strong {
             color: #db2777;
+            padding-bottom: 8px;
         }
 
         /* Special styling for the "محتوى الرسالة" section */
@@ -80,14 +81,13 @@ export const htmlData = `
         .content-title {
             font-weight: bold;
             color: #db2777;
+             padding-bottom: 8px;
         }
 
         .content-text {
             display: block;
-            margin-top: 6px;
-            padding: 8px;
             border-radius: 6px;
-            font-size: 14px;
+            font-size: 16px;
             color: #333;
             text-align: right;
         }
@@ -110,7 +110,7 @@ export const htmlData = `
 <body>
     <div class="container">
         <div class="title-container">
-            <h1>بوابة المقترحات و الملاحظات</h1>    
+            <h1 style="color: #fff">بوابة المقترحات و الملاحظات</h1>    
             </div>
         <ul>
           <li class="info-item">
