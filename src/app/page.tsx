@@ -160,7 +160,7 @@ export default function Home() {
                             </FormLabel>
                             <FormControl>
                               <Input
-                                placeholder="الإسم الكامل"
+                                placeholder="الإسم الكامل..."
                                 className="border-gray-300 rounded-lg shadow-sm focus:!ring-purple-300 focus:!border-purple-300"
                                 {...field}
                               />
@@ -178,7 +178,7 @@ export default function Home() {
                             </FormLabel>
                             <FormControl>
                               <Input
-                                placeholder="البريد الإلكتروني"
+                                placeholder="البريد الإلكتروني..."
                                 className="border-gray-300 rounded-lg shadow-sm focus:!ring-purple-300 focus:!border-purple-300"
                                 {...field}
                               />
@@ -196,7 +196,7 @@ export default function Home() {
                             </FormLabel>
                             <FormControl>
                               <Input
-                                placeholder="رقم الهاتف"
+                                placeholder="رقم الهاتف..."
                                 className="border-gray-300 rounded-lg shadow-sm focus:!ring-purple-300 focus:!border-purple-300"
                                 {...field}
                               />
@@ -218,7 +218,7 @@ export default function Home() {
                             </FormLabel>
                             <FormControl>
                               <Input
-                                placeholder="الإسم الكامل"
+                                placeholder="الإسم الكامل..."
                                 className="border-gray-300 rounded-lg shadow-sm focus:!ring-purple-300 focus:!border-purple-300"
                                 {...field}
                               />
@@ -236,7 +236,7 @@ export default function Home() {
                             </FormLabel>
                             <FormControl>
                               <Input
-                                placeholder="البريد الإلكتروني"
+                                placeholder="البريد الإلكتروني..."
                                 className="border-gray-300 rounded-lg shadow-sm focus:!ring-purple-300 focus:!border-purple-300"
                                 {...field}
                               />
@@ -254,7 +254,7 @@ export default function Home() {
                             </FormLabel>
                             <FormControl>
                               <Input
-                                placeholder="رقم الهاتف"
+                                placeholder="رقم الهاتف..."
                                 className="border-gray-300 rounded-lg shadow-sm focus:!ring-purple-300 focus:!border-purple-300"
                                 {...field}
                               />
@@ -312,7 +312,7 @@ export default function Home() {
                     )
                   }
                 >
-                  <TabsList className="w-full h-full md:h-9 flex flex-wrap md:flex-nowrap md:gap-3 bg-gray-100 p-3 px-4 md:px-2 md:py-7 rounded-lg shadow-inner mb-4 md:mb-10">
+                  <TabsList className="w-full h-full md:h-9 flex flex-wrap md:flex-nowrap md:gap-3 bg-gray-100 p-3 px-4 md:px-2 md:py-7 rounded-lg shadow-inner mb-6 md:mb-10">
                     <TabsTrigger
                       value="complaint"
                       className="flex items-center gap-2 py-2 md:w-1/3 justify-center rounded-lg hover:text-purple-900 transition"
