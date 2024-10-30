@@ -36,7 +36,7 @@ export const htmlData = `
 
         /* Header styling */
   .title-container {
-            background: linear-gradient(45deg, #ec4899, #d946ef);
+            background-color: #db2777;
             padding: 20px;
             text-align: center;
             direction: rtl;
